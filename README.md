@@ -92,7 +92,6 @@ and you should pass a two parameters `column you need to search or fillter in` a
 ##### My json colums has:
 ```json
 {
-    "ar":"نص عربي",
     "en":"English text"
 }
 ```
